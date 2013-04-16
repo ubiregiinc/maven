@@ -2,7 +2,7 @@ import java.io._
 import scala.xml._
 
 object GenerateIndices extends App {
-  val root = new File("maven")
+  val root = new File(".")
   recurse(root)
 
   def recurse(file: File): Unit = {

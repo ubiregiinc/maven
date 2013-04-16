@@ -1,3 +1,2 @@
-# @kmizu's github pages.
+# @ubiregiinc maven repository
 
-This page is mainly used for documentation and maven repository.
