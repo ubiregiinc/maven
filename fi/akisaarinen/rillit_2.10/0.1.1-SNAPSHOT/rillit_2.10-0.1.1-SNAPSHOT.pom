@@ -14,22 +14,17 @@
         <dependency>
             <groupId>org.scala-lang</groupId>
             <artifactId>scala-library</artifactId>
-            <version>2.10.0</version>
-        </dependency>
-        <dependency>
-            <groupId>org.scala-lang</groupId>
-            <artifactId>scala-compiler</artifactId>
-            <version>2.10.0</version>
+            <version>2.10.1</version>
         </dependency>
         <dependency>
             <groupId>org.scala-lang</groupId>
             <artifactId>scala-reflect</artifactId>
-            <version>2.10.0</version>
+            <version>2.10.1</version>
         </dependency>
         <dependency>
             <groupId>com.chuusai</groupId>
             <artifactId>shapeless_2.10</artifactId>
-            <version>1.2.3</version>
+            <version>1.2.4</version>
         </dependency>
     </dependencies>
 </project>
